@@ -1,0 +1,5 @@
+{
+  "name": "ConnectSphere",
+  "description": "A real-time chat application where users can create and join chat rooms, powered by Node.js and Socket.IO.",
+  "requestFramePermissions": []
+}
